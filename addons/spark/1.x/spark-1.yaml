@@ -12,6 +12,7 @@ metadata:
 spec:
   kubernetes:
     minSupportedVersion: v1.15.0
+    maxSupportedVersion: v1.17.17
   cloudProvider:
     - name: aws
       enabled: true
